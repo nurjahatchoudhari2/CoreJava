@@ -1,0 +1,1 @@
+package new01_01RulesinheriAbs;

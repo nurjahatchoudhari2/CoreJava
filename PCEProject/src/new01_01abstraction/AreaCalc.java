@@ -36,6 +36,8 @@ class Circle extends Shapes
 	}
 	void dispArea() {
 		System.out.println("Area of Circle"+area);
+		System.out.println();
+		
 	}
 }
 
@@ -51,6 +53,7 @@ class Triangle extends Shapes
 	}
 	void dispArea() {
 		System.out.println("Area of Traingle"+area);
+		System.out.println();
 		
 	}
 }
@@ -66,5 +69,6 @@ class Square extends Shapes
 	}
 	void dispArea() {
 		System.out.println("Area of Square"+area);	
+		System.out.println();
 	}
 }
