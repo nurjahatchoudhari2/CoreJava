@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
-module PCEProject {
+ module PCEProject {
+	requires java.sql;
 }
