@@ -9,6 +9,7 @@ public class ArraylistDemo {
 		ArrayList al = new ArrayList();
 		al.add(10);
 		al.add(20);
+		al.add(30);
 		al.add("Arsh");
 		al.add(30.5);
 		al.add(true);

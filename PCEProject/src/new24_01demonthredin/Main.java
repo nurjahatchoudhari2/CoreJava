@@ -16,7 +16,6 @@ public class Main {
 		
 		t2.setDaemon(true);
 		t3.setDaemon(true);
-		
 		t2.setPriority(1);
 		t3.setPriority(1);
 		

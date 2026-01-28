@@ -9,6 +9,7 @@ public class LinkedListDemo {
 		LinkedList l = new LinkedList();
 		l.add(10);
 		l.add(20);
+		l.add(30);
 		l.add("Arsh");
 		l.add(30.5);
 		System.out.println(l);

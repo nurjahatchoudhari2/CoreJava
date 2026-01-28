@@ -22,6 +22,7 @@ public class Retainallandset {
 		arr1.add(300);
 		arr1.add(400);
 		arr1.add(500);
+		
 		System.out.println("List 2 => "+arr1);
 		
 		arr.retainAll(arr1);

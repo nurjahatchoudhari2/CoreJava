@@ -8,6 +8,7 @@ public class ArrayListDemo1 {
 	{
 		// TODO Auto-generated method stub
 		ArrayList arr = new ArrayList();
+		
 		arr.add(10);
 		arr.add(20);
 		arr.add(30);

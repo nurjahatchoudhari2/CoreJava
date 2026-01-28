@@ -4,6 +4,7 @@ public  class CodeEnter extends Thread{
 	public void run()
 	{
     	 String tname = Thread.currentThread().getName();
+    	 
     	 if(tname.equals("Type"))
     	 {
     		 typing();
