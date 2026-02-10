@@ -19,6 +19,8 @@ public class PalindroneNumber {
 	                                                        //121/10 = 12        //12/10 =1
 	            num = num / 10;
 	        }
+	        System.out.println("Original : "+ original);
+	        System.out.println("Reverse : " + reverse);
 
 	        if (original == reverse) {
 	            System.out.println("Palindrome Number");
